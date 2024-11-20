@@ -52,6 +52,7 @@ b. Install Tailwind CSS
 To install Tailwind CSS, run the following command:
 
 npm install tailwindcss
+
 c. Set up Tailwind CSS Configuration
 Generate the Tailwind configuration file by running:
 
