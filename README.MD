@@ -28,17 +28,15 @@ Who to Follow suggestions with profile images and follow buttons.
 
 ## Installation Instructions
 
-### 1. Clone the Repository
+1. Clone the Repository
 
 To download the project to your local machine, use the following command in your terminal:
 
-```bash
+
 git clone https://github.com/Kushagra6265/twitter-clone.git
 2. Navigate to the Project Directory
 After cloning, navigate to the project folder:
 
-bash
-Copy code
 cd twitter-clone
 3. Install Dependencies (for development)
 If you want to customize the project or work with Tailwind CSS, you need to install dependencies like Tailwind CSS. To do that, follow these steps:
@@ -46,26 +44,22 @@ If you want to customize the project or work with Tailwind CSS, you need to inst
 a. Initialize npm (if not already done)
 If the project does not have a package.json file yet (check if it exists), initialize it by running:
 
-bash
-Copy code
+
 npm init -y
 b. Install Tailwind CSS
 To install Tailwind CSS, run the following command:
 
-bash
-Copy code
+
 npm install tailwindcss
 c. Set up Tailwind CSS Configuration
 Generate the Tailwind configuration file by running:
 
-bash
-Copy code
+
 npx tailwindcss init
 4. Open the Project in Your Browser
 You can now open the index.html file in any browser to see the UI:
 
 Option 1: Open index.html directly by double-clicking it (works without any setup).
 Option 2: If you've set up Tailwind locally, open the file by navigating to the project folder and running:
-bash
-Copy code
+
 open index.html
