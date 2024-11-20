@@ -17,7 +17,6 @@ Post Button,
 The sidebar features icons and labels similar to those seen in the Twitter interface.
 
 2. Feed Section:
-
 Displays tweets in a structured format with interactive elements such as:
 Tweet posting: Placeholder text for creating a tweet.
 Media post options: Images, GIFs, and location sharing options are shown (but non-functional in this UI).
