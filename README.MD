@@ -28,7 +28,7 @@ Who to Follow suggestions with profile images and follow buttons.
 
 ## Installation Instructions
 
-### 1. Clone the Repository
+1. Clone the Repository
 
 To download the project to your local machine, use the following command in your terminal:
 
