@@ -40,12 +40,13 @@ cd twitter-clone
 
 3. Install Dependencies (for development)
 If you want to customize the project or work with Tailwind CSS, you need to install dependencies like Tailwind CSS. To do that, follow these steps:
-a. Initialize npm (if not already done):
+
+##a. Initialize npm (if not already done):
 If the project does not have a package.json file yet (check if it exists), initialize it by running:
 
 npm init -y
 
-b. Install Tailwind CSS:
+##b. Install Tailwind CSS:
 To install Tailwind CSS, run the following command:
 
 npm install tailwindcss
