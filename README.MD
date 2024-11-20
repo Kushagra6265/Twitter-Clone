@@ -3,17 +3,17 @@ This is a front-end design replica of Twitter's homepage, built using Tailwind C
 Features
 1. Sidebar:
 Contains navigation options like:
-Home
-Explore
-Notifications
-Grok
-Lists
-Bookmarks
-Communities
-Premium
-Profile
-More
-Post Button
+Home,
+Explore,
+Notifications,
+Grok,
+Lists,
+Bookmarks,
+Communities,
+Premium,
+Profile,
+More,
+Post Button,
 The sidebar features icons and labels similar to those seen in the Twitter interface.
 
 2. Feed Section:
