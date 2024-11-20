@@ -32,7 +32,7 @@ Who to Follow suggestions with profile images and follow buttons.
 
 To download the project to your local machine, use the following command in your terminal:
 
-```bash
+
 git clone https://github.com/Kushagra6265/twitter-clone.git
 
 2. Navigate to the Project Directory
